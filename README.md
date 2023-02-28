@@ -33,7 +33,7 @@ These stages may be represented in different ways depending on the ticketing sys
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Creation - The ticket is created when a user submits a request or issue to the support team.
+Intake - The ticket is created when a user submits a request or issue to the support team.
 Assignment - The ticket is assigned to a specific agent or group of agents responsible for handling the request.
 </p>
 <br />
@@ -42,7 +42,8 @@ Assignment - The ticket is assigned to a specific agent or group of agents respo
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Work in progress - The assigned agent begins working on the ticket by gathering information, troubleshooting, and communicating with the requester.
+  <ul>Working the Issue in progress</ul> - The assigned agent begins working on the ticket by gathering information, troubleshooting, and communicating with the requester.Pending: If the ticket requires further information or clarification, it may be placed in a pending status until the requester provides the necessary details.
+On-hold: If the ticket cannot be resolved immediately or requires action from an external party, it may be placed on hold until the issue can be resolved.
 Escalation - If the ticket is not resolved within a certain timeframe or requires further attention, it may be escalated to a higher level of support or management.
 </p>
 <br />
@@ -51,7 +52,7 @@ Escalation - If the ticket is not resolved within a certain timeframe or require
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Resolution - The ticket is resolved when the issue or request has been resolved to the satisfaction of the requester.
+<ul>Resolution</ul> - The ticket is resolved when the issue or request has been resolved to the satisfaction of the requester.
 Closure - The ticket is closed once it has been resolved and the requester has confirmed that the issue or request has been resolved to their satisfaction.
 Follow-up - In some cases, the support team may follow up with the requester after the ticket has been closed to ensure that the issue or request has not resurfaced.
 </p>
