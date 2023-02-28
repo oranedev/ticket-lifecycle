@@ -28,12 +28,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
+These stages may be represented in different ways depending on the ticketing system being used, but they generally follow a similar process flow. By understanding the ticket lifecycle stages, support teams can efficiently manage and resolve requests and issues, resulting in higher customer satisfaction and support team productivity.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creation - The ticket is created when a user submits a request or issue to the support team.
+Assignment - The ticket is assigned to a specific agent or group of agents responsible for handling the request.
 </p>
 <br />
 
@@ -41,7 +42,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Work in progress - The assigned agent begins working on the ticket by gathering information, troubleshooting, and communicating with the requester.
+Escalation - If the ticket is not resolved within a certain timeframe or requires further attention, it may be escalated to a higher level of support or management.
 </p>
 <br />
 
@@ -49,6 +51,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Resolution - The ticket is resolved when the issue or request has been resolved to the satisfaction of the requester.
+Closure - The ticket is closed once it has been resolved and the requester has confirmed that the issue or request has been resolved to their satisfaction.
+Follow-up - In some cases, the support team may follow up with the requester after the ticket has been closed to ensure that the issue or request has not resurfaced.
 </p>
 <br />
